@@ -1,0 +1,11 @@
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\bin\Debug\Hockey scoreboard.exe.config
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\bin\Debug\Hockey scoreboard.exe
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\bin\Debug\Hockey scoreboard.pdb
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey scoreboard.csprojAssemblyReference.cache
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey_scoreboard.ControlPanel.resources
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey_scoreboard.Properties.Resources.resources
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey_scoreboard.View.resources
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey scoreboard.csproj.GenerateResource.cache
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey scoreboard.csproj.CoreCompileInputs.cache
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey scoreboard.exe
+C:\Users\335317\Desktop\Hockey scoreboard 2\Hockey scoreboard\obj\Debug\Hockey scoreboard.pdb
