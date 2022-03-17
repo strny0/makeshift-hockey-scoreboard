@@ -1,2 +1,2 @@
 # makeshift-hockey-scoreboard
-Hockey scoreboard
+The first full program I developed.
